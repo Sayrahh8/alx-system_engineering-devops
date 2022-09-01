@@ -1,1 +1,1 @@
-a script that sets the mode of the file hello to this
+a script that changes the group owner to school for the file hello
