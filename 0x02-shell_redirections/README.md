@@ -1,1 +1,1 @@
-a shell script that creates a file best school
+script that writes into the file the result
